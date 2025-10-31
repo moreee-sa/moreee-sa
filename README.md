@@ -14,7 +14,5 @@ Specialized in **React & Next.js**, **HTML**, **CSS**
 
 ![moreee-sa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moreee-sa&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-![moreee-sa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moreee-sa&theme=tokyonight&hide_border=false)
-
 ## 💡 Skills
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,php,mysql,git,github,py&theme=dark)](https://skillicons.dev)
