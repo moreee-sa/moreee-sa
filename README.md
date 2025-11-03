@@ -10,7 +10,7 @@ Specialized in **React & Next.js**, **HTML**, **CSS**
 - Created modern interfaces with attention to **design** and **clean code**
 
 ## 🔥 Most Used Languages
-![moreee-sa's Stats](https://github-readme-stats.vercel.app/api?username=moreee-sa&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![moreee-sa's Stats](https://github-readme-stats.vercel.app/api?username=moreee-sa&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&hide_rank=true)
 
 ![moreee-sa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moreee-sa&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
